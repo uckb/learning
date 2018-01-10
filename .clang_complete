@@ -1,0 +1,4 @@
+-DDEBUG
+-std=gnu99
+-I/usr/includce/
+-I/usr/include/xorg/
